@@ -2,6 +2,6 @@
 
 int main (void)
 {
-      printf("This is my first git example\n");
+      printf("This is my first git example.\n");
       return 0;
 }
